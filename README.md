@@ -21,7 +21,7 @@ How it works:
 Install using standard `go get`:
 
 ```
-$ go get github.com/mitchellh/go-ps
+$ go get github.com/remerle/go-ps
 ...
 ```
 
